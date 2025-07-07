@@ -1,0 +1,13 @@
+title: Cabin Fever Dream
+email: hello@cabinfeverdream.com
+description: >-
+  Musings of a corporate state captive.   
+baseurl: ""
+url: ""
+twitter_username: 
+github_username:  cabinfeverdream
+theme: minima
+show_excerpts: true
+plugins:
+  - jekyll-feed
+markdown: kramdown
